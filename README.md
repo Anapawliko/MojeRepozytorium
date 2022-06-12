@@ -18,3 +18,5 @@ ShareX
 **Skills**
 
 SQL (MS SQL, PostgreSQL)
+
+Creating test cases
